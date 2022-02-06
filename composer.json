@@ -1,0 +1,18 @@
+{
+    "name": "root/hw4",
+    "description": "homework4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Koltsov",
+            "email": "koltsovsg@ya.ru"
+        }
+    ],
+    "require": {
+        "symfony/console": "^6.0"
+    }
+}
